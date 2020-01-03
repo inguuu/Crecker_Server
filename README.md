@@ -1,7 +1,27 @@
 # Crecker_Server
 
+크리에이터라면 누구나! 계약없는 오픈 MCN 플랫폼 서비스 Crecker 
 
-API: https://github.com/Team-Crecker/Crecker_Server/wiki
+
+### API: https://github.com/Team-Crecker/Crecker_Server/wiki
+
+
+# WorkFlow
+
+
+
+
+# ERD
+
+
+# Server-Architecture 
+
+
+# Dependency Module
+
+# 
+
+
 
 
 # 목표 
@@ -29,13 +49,19 @@ crypto, Oauth 2.0, Jwt, Restful, 통신방법
 #### [2019.12.29]
 cron, youtube api, json2csv, git (API 70% 완성 예상)
 
+# Contributors
+
+#### 제갈윤
+#### 양정훈
+#### 유희수
+#### 장인규 github.com/inguuu
 
 #### [이후 계획]
 
-~ 진행 
 
 #### [2020 1.2 서버 개발 종료]
 
+#### [2020 1.2 서버 통신 시작]
 
 #### [100% 달성]
 
