@@ -149,14 +149,25 @@ cron, youtube api, json2csv, git (API 70% 완성 예상)
 
 # Contributors
 
+
+
 #### 제갈윤 [jms0707](https://github.com/jms0707)
 #### 양정훈 [luciferkala](https://github.com/luciferkala)
 #### 유희수 [yooheesoo](https://github.com/yooheesoo)
 #### 장인규 [inguuu](https://github.com/inguuu)
 
 
+## 기획
+#### 김필원 남궁선규
 
+## 디자이너 
+#### 정미숙 최형윤 김가형 김윤아
 
+## 안드로이드
+#### 박현준 강민구 이주연
+
+## IOS 
+#### 이승호
 # Plan
 
 #### [2020 1.2 서버 개발 종료]
